@@ -1,5 +1,5 @@
 # MetaMetaLearning
-Evolve plastic networks to be able to automatically acquire novel meta-learning (cognitive) tasks
+Evolve plastic networks to be able to automatically acquire *novel* meta-learning (cognitive) tasks that were not seen during training.
 
 This is the code for the arxiv preprint [Learning to acquire novel cognitive tasks with evolution,
 plasticity and meta-meta-learning](https://arxiv.org/abs/2112.08588).
