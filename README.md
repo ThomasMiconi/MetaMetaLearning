@@ -1,4 +1,4 @@
-# EvoPlastMML
+# Meta-meta-learning with evolution and plasticity
 
 This is the code for the arxiv preprint [Learning to acquire novel cognitive tasks with evolution,
 plasticity and meta-meta-learning](https://arxiv.org/abs/2112.08588).
