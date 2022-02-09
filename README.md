@@ -6,5 +6,5 @@ plasticity and meta-meta-learning](https://arxiv.org/abs/2112.08588).
 We evolve plastic networks to be able to automatically acquire *novel* meta-learning (cognitive) tasks, that were not seen during training.
 
 The code is in the form of Jupyter notebooks that can be run on Google Colab. 
-It is **strongly** recommended to consult the `Simple` notebook, which contains a simplified version of the code that should be easier to read through. 
+It is **strongly** recommended to consult the `Simple` notebook, which contains a simplified version of the code that should be easier to read through, while still producing the same results. 
 The other notebook contains the full code that was actually used to run the experiments.
